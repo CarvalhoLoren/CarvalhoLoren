@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Lorenna Carvalho
-- 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I'm studying Systems Analysis and Development at university
 - 📫 How to reach me lorennacarvalhocosta@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I'm also a Hybrid Athlete
